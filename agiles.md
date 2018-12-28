@@ -1,5 +1,5 @@
-<!-- TITLE: Agiles -->
-<!-- SUBTITLE: A quick summary of Agiles -->
+<!-- TITLE: Agile -->
+<!-- SUBTITLE: A quick summary of Agile -->
 
 # Agile Resources
 
