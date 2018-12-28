@@ -3,6 +3,6 @@
 
 # Content
 
-* [Link Text](/agile)
+* [Agile](/agile)
 * zwei
 * drei
