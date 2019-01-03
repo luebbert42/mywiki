@@ -5,4 +5,4 @@
 
 * [Agile](/agile)
 * [Working Out Loud](/working-out-loud)
-*  [Agile](/agile)
+* [Liberating Structures](/liberating-structures)
