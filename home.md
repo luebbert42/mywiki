@@ -4,5 +4,5 @@
 # Content
 
 * [Agile](/agile)
-* zwei
-* drei
+* [Working Out Loud](/working-out-loud)
+*  [Agile](/agile)
