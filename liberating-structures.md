@@ -4,8 +4,7 @@
 # Liberating Structures
 ## Strings
 
-* 
-* [https://drive.google.com/drive/folders/0B1aVFtekeimwWUZmSldJWm9Sa2s](Liberating Structures Material (Google Drive))
+*[Liberating Structures Material (Google Drive)](https://drive.google.com/drive/folders/0B1aVFtekeimwWUZmSldJWm9Sa2s)
 
-[https://trello.com/b/RRgrkb29/liberating-structures-strings](Trello board: a couple of strings)
+*[Trello board: a couple of strings](https://trello.com/b/RRgrkb29/liberating-structures-strings)
 
