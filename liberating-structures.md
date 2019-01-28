@@ -8,3 +8,6 @@
 
 *[Trello board: a couple of strings](https://trello.com/b/RRgrkb29/liberating-structures-strings)
 
+## Invitations
+* [Powerful invitations for LS (Christiaan Verwijs)](https://medium.com/the-liberators/characteristics-of-powerful-invitations-for-liberating-structures-c9ac3a019e63)
+
