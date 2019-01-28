@@ -7,7 +7,11 @@
 *[Wiki ... might be the official website one day?](https://liberatingstructures.miraheze.org/wiki/LsMenu)
 *[Official Website (en)](http://www.liberatingstructures.com)
 *[Official Website (de)](http://www.liberatingstructures.de)
+
+## Presentations, Learning Journals....
 *[Slides LS Vertiefen from 01/2019 in Berlin](https://docs.google.com/presentation/d/1hRlihLn17jF_H8TPaXatNvjEogXIkCcZ7g08sJ9eJYE/edit?usp=sharing)
+*[Learning Journal LS](gumroad.com/akanto)
+
 
 
 ## Strings
