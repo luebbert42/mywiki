@@ -2,6 +2,10 @@
 <!-- SUBTITLE: A quick summary of Liberating Structures -->
 
 # Liberating Structures
+## General
+
+*[Wiki ... might be the official website one day?] (https://liberatingstructures.miraheze.org/wiki/LsMenu)
+
 ## Strings
 
 *[Liberating Structures Material (Google Drive)](https://drive.google.com/drive/folders/0B1aVFtekeimwWUZmSldJWm9Sa2s)
