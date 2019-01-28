@@ -4,7 +4,7 @@
 # Liberating Structures
 ## General
 
-*[Wiki ... might be the official website one day?] (https://liberatingstructures.miraheze.org/wiki/LsMenu)
+*[Wiki ... might be the official website one day?](https://liberatingstructures.miraheze.org/wiki/LsMenu)
 
 ## Strings
 
